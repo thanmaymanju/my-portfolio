@@ -1,0 +1,8 @@
+{
+  "name": "Editorial Engineering Portfolio",
+  "description": "Minimalist editorial software engineering portfolio featuring centralized content configuration, interactive system architecture showcases, project case studies, and optional Gemini AI and Supabase integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
